@@ -7,3 +7,6 @@ table, td, th {
 table {
     border-collapse: collapse;
 }
+a:link,a:visited{
+    color: blue;
+}
