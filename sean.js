@@ -12,6 +12,12 @@ function shawn(){
         s5 +="<Br><strong>Star Sign</strong>: Pisces"
         s5 +="<br><strong>Species</strong>: Human"
         s5 +="<br><strong>Status</strong>: Alive"
+        s5 +="<br><strong>Height</strong>: 5&rsquo;11"
+        s5 +="<br><strong>Weight</strong>: 150 lbs"
+        s5 +="<br><strong>Skin Color</strong>: Caucasian"
+        s5 +="<br><strong>Hair Color</strong>: Auburn"
+        s5 +="<br><strong>Hair Style</strong>: Pixie Cut"
+        s5 +="<br><strong>Eye Color</strong>: Blue"
         document.getElementById("s2").innerHTML=s5
     }else if(strUser=="Placeholder"){
         document.getElementById("s2").innerHTML="aurrroa"
